@@ -1,0 +1,5 @@
+(version 1)
+(allow default)
+(deny network*)
+(deny file-write*)
+(allow file-write* (subpath "/Users/rashila-lamichhane/NOUS GradProject/project/minipilot/runs/20261023-001003-caught_shutdown-7bdc/workspace") (literal "/dev/null"))

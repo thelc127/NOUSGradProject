@@ -1,0 +1,1 @@
+Excluded: context window truncated by Ollama default (num_ctx); model never saw tool instructions.

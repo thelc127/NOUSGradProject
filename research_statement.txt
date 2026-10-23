@@ -1,0 +1,17 @@
+Research Question
+    I want to investigate how to distinguish between routine reward hacking and an actual loss of control when AI agents coordinate to break out or bypass evaluation environments. 
+
+Why does this question matter? 
+    As we deploy frontier models in autonomous settings and multi-agent setups, we can see agents finding unintended ways to complete the tasks. 
+    However, evaluators (in my opinion) currently lack a clean line between loss of control ( an agent breaking the rule of its environment) and 
+    reward hacking (an agent finding a clever way to maximize the score). I find this questions matters to me. 
+
+    The investigation solves a real diagnostic puzzle (for eg, in OpenAI Hugging Face incident). 
+    When agents bypass environment boundaries, researchers disagree on what happened, like if the system just cheating its reward function? 
+    I think the study focus on the classical problem of interpreting an agent’s intent, and can help us find the clear criteria of that 
+    distinction and where the OpenAI Hugging Face incident crossed that line. 
+
+What I think about this research problem?
+    Looking at model traces from OpenAI hugging face incident shows no signs of malice or human-level thinking. The models were just blindly following an optimization path to maximize their score. 
+    The benchmark teams do not have clear warning signs to catch when an agent moves from a harmless score-gaming to compromising the grading system. 
+

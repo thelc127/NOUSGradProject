@@ -1,0 +1,22 @@
+# Secrets: API keys live here. Never commit.
+.env
+*.env
+.env.*
+
+# OS and editor clutter
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Offline pipeline checks with a scripted agent (not data)
+project/minipilot/runs_mock/
+
+# Third-party papers: copyrighted PDFs, kept locally only
+References/
