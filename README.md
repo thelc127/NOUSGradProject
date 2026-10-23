@@ -9,6 +9,9 @@ Current status (2026-10-23): a minimum viable pilot is complete. One coding task
 planted hack, four conditions, 33 local episodes with Qwen3 8B and a few with Nemotron
 Ultra. See [Results so far](#results-so-far) below.
 
+New to AI safety? Start with the [Beginner's Guide](BEGINNERS_GUIDE.md), which explains
+the project, the results and their meaning in plain words.
+
 ---
 
 ## Overall process
@@ -128,6 +131,7 @@ Innocent explanations still open:
 
 | File | What it is |
 |---|---|
+| `BEGINNERS_GUIDE.md` | Plain-language explanation of the whole project, results and progress |
 | `research_statement.txt` | Original research question |
 | `Experiment design.pdf` | The experiment design: blocks A–D, positive control, tasks, 4-week plan |
 | `meeting notes.txt` | Weekly meeting notes, including independent, nuisance and dependent variable tables |

@@ -20,3 +20,6 @@ project/minipilot/runs_mock/
 
 # Third-party papers: copyrighted PDFs, kept locally only
 References/
+
+# Private notes, kept locally only
+meeting notes.txt
