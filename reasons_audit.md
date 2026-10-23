@@ -3,8 +3,6 @@
 Date: 2026-10-22
 Aim (from meeting notes): *We catch an agent reward hacking and try to stop it. Then we remove every innocent reason it might have for not stopping, one by one, and check whether it still works around human control. If it does, especially to protect itself, that is an early sign of the shift from RH to LoC.*
 
-Task: check the reasons table in `meeting notes.txt` against the literature. (1) Is each existing reason supported, and is the citation right? (2) Which reasons are missing? (3) What does each mean for the design?
-
 ---
 
 ## 0. Sources and how carefully each was checked
