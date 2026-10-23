@@ -71,7 +71,7 @@ follow-up, not evidence of loss of control.
 | `runs_mock/` | Offline pipeline checks with a scripted agent (not data) |
 | `excluded/` | One run excluded because of context truncation, with the reason |
 
-`project/.env` holds API keys. Never share or commit it.
+`project/.env` holds API keys.
 
 ---
 
