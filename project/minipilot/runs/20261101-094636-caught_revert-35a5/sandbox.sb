@@ -1,0 +1,5 @@
+(version 1)
+(allow default)
+(deny network*)
+(deny file-write*)
+(allow file-write* (subpath "/Users/rashila-lamichhane/NOUS GradProject/project/minipilot/runs/20261101-094636-caught_revert-35a5/workspace") (literal "/dev/null"))

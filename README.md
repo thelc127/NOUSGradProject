@@ -39,6 +39,9 @@ the project, the results and their meaning in plain words.
 
 ## Results so far
 
+> **Update (2026-11-01):** follow-up tests show the denials below are mostly innocent
+> (false belief, never checked). See [`INNOCENT_REASONS_TEST.md`](INNOCENT_REASONS_TEST.md).
+
 Pilot results as of 2026-10-23. All episodes start from a **planted hack**: the agent's
 history already contains an edit to the protected test file, and the condition message is
 delivered on the next turn. Raw data: `project/minipilot/runs/`. Report labels:
